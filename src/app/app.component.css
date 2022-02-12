@@ -1,0 +1,7 @@
+#big-box{
+    overflow: hidden;
+    padding: 20px;
+    width: 90%;
+    margin: 20px;
+    background-color: aqua;
+}
